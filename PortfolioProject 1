@@ -1,0 +1,9 @@
+# Working with Netflix dataset 
+
+#Importing the dataset
+
+import pandas as pd
+import seaborn as sns
+
+data = pd.read_csv
+data = pd.read_csv('netflix_titles.csv')
